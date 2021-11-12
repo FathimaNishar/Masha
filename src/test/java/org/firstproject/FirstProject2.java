@@ -14,5 +14,6 @@ public class FirstProject2 {
 	@Test
 	private void tc6() {
 	System.out.println("test6");
+	System.out.println("first");
 	}
 }
